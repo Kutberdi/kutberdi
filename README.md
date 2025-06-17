@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Привет! Меня зовут Кутберди
 
-<!--
-**Kutberdi/kutberdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий Python/Django разработчик из Кыргызстана. Люблю писать полезные проекты и учусь через практику.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Навыки:
+- Python, Django, HTML, CSS
+- Git + GitHub
+- Боты Telegram (aiogram / pyTelegramBotAPI)
+- Парсинг, автоматизация
+
+---
+
+## 🛠 Мои проекты:
+
+### 📌 PasteBin Clone
+Сервис для создания и хранения заметок.
+- 💻 [Код на GitHub](https://github.com/Kutberdi/Paste-bin)
+- 🧾 [Подробнее в README](https://github.com/Kutberdi/Paste-bin-minimal/blob/main/README.md)
+
+### 🤖 Telegram Notes Bot
+Бот для заметок в Telegram. Сохраняет и показывает.
+- 💻 [GitHub](https://github.com/Kutberdi/Notebot)
+
+---
+
+## 📬 Контакты:
+- Email: duishembieww@gmail.com
+- GitHub: [@kutberdi](https://github.com/Kutberdi)
